@@ -11,11 +11,11 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
 
-### My Projects
+### My Recent Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gomarag&show_owner=true&theme=swift&repo=siphoon-note)](https://github.com/gomarag/siphoon-note)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gomarag&&show_owner=true&theme=swift&repo=post-board)](https://github.com/gomarag/post-board)
 
 
 ### About Me
 ![gomarag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gomarag&custom_title=Gomarag%27s%20Github%20Stats&count_private=true&hide=stars&theme=swift&show_icons=true&card_width=300)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gomarag&hide=CSS&title_color=&layout=demo&theme=swift&card_width=300)](https://github.com/gomarag/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gomarag&hide=CSS&title_color=&layout=compact&theme=swift&card_width=300)](https://github.com/gomarag/github-readme-stats)
