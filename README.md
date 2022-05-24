@@ -18,4 +18,4 @@
 
 ### About Me
 ![gomarag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gomarag&custom_title=Gomarag%27s%20Github%20Stats&count_private=true&hide=stars&theme=swift&show_icons=true&card_width=300)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gomarag&hide=CSS&title_color=&layout=compact&theme=swift&card_width=300)](https://github.com/gomarag/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gomarag&hide=CSS&title_color=&layout=demo&theme=swift&card_width=300)](https://github.com/gomarag/github-readme-stats)
