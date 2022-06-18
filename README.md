@@ -12,7 +12,7 @@
 
 
 ### My Recent Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gomarag&show_owner=true&theme=swift&repo=siphoon-note)](https://github.com/gomarag/siphoon-note)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gomarag&show_owner=true&theme=swift&repo=siphoon-note)]([https://github.com/gomarag/siphoon-note-server](https://github.com/gomarag/siphoon-note-server))
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gomarag&&show_owner=true&theme=swift&repo=post-board)](https://github.com/gomarag/post-board)
 
 
