@@ -1,4 +1,4 @@
-# I'm a Web Developer, Garam
+# 😎 Full-Stack Developer, Garam
 
 ### My Tech Stacks
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -12,10 +12,24 @@
 
 
 ### My Recent Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gomarag&show_owner=true&theme=swift&repo=siphoon-note)](https://github.com/gomarag/siphoon-note)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gomarag&&show_owner=true&theme=swift&repo=post-board)](https://github.com/gomarag/post-board)
+<div>
+    <kbd>
+      <a href="https://consent-card-game.vercel.app/">
+        <img src="https://github.com/gomarag/gomarag/assets/66699849/0cdb8234-4c36-401e-8f05-04a71f37f5f9" alt="preview" width="390"/>
+      </a>
+      <h4 align="center">“동의인지 아닌지 잘 모르겠어🤔” 지금 바로 카드게임 플레이!</h4>
+      <h4 align="center">Next.js + Firebase + React + Vercel</h4>
+    </kbd>
+    <kbd>
+      <a href="https://www.siphoon-note.app/">
+        <img src="https://github.com/gomarag/gomarag/assets/66699849/0cdb8234-4c36-401e-8f05-04a71f37f5f9" alt="preview" width="390"/>
+      </a>
+      <h4 align="center">“꾸준히 ✒글쓰는 습관을 만들고 싶어!” 10분 노트</h4>
+      <h4 align="center">Express + React + AWS EC2 + mySql</h4>
+    </kbd>
+</div>
 
-
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gomarag&showowner=true&theme=swift&repo=siphoon-note)](https://github.com/gomarag/siphoon-note)
 ### About Me
 ![gomarag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gomarag&custom_title=Gomarag%27s%20Github%20Stats&count_private=true&hide=stars&theme=swift&show_icons=true&card_width=300)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gomarag&hide=CSS&title_color=&layout=compact&theme=swift&card_width=300)](https://github.com/gomarag/github-readme-stats)
