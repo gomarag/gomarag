@@ -17,14 +17,14 @@
       <a href="https://consent-card-game.vercel.app/">
         <img src="https://github.com/gomarag/gomarag/assets/66699849/0cdb8234-4c36-401e-8f05-04a71f37f5f9" alt="active-consent-game-preview" width="355"/>
           <h4 align="center">“동의인지 아닌지 잘 모르겠어🤔” 지금 바로 카드게임 플레이!</h4>
-          <h4 align="center">Next.js + Firebase + React + Vercel</h4>
+          <h3 align="center">Next.js • Firebase • React • Vercel</h3>
       </a>
     </kbd>
     <kbd>
       <a href="https://www.siphoon-note.app/">
         <img src="https://github.com/gomarag/gomarag/assets/66699849/64ca45c4-4cd7-461f-8a6d-4ea4c178f7de" alt="siphoon-note-preview" width="400"/>
           <h4 align="center">“꾸준히 ✒글쓰는 습관을 만들고 싶어!” 10분 노트</h4>
-          <h4 align="center">Express + React + AWS EC2 + mySql</h4>
+          <h3 align="center">Express • React • AWS EC2 • MySql</h3>
       </a>
     </kbd>
 </div>
