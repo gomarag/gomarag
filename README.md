@@ -22,7 +22,7 @@
     </kbd>
     <kbd>
         <img src="https://github.com/gomarag/gomarag/assets/66699849/64ca45c4-4cd7-461f-8a6d-4ea4c178f7de" alt="siphoon-note-preview" width="400"/>
-        <a href="https://www.siphoon-note.app/">
+        <a target="_blank" href="https://www.siphoon-note.app/">
             <br><br>🔗 “꾸준히 글쓰는 습관을 만들고 싶어!” 10분 노트 쓰러가기!
         </a>
         <h3 align="center">Express • React • AWS EC2 • MySql</h3>
