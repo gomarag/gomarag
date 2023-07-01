@@ -30,7 +30,9 @@
 </div>
 <br>
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gomarag&showowner=true&theme=swift&repo=siphoon-note)](https://github.com/gomarag/siphoon-note)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gomarag&showowner=true&theme=swift&repo=siphoon-note)](https://github.com/gomarag/siphoon-note)
+[![image](https://github-production-user-asset-6210df.s3.amazonaws.com/66699849/249681724-0cdb8234-4c36-401e-8f05-04a71f37f5f9.png)](https://consent-card-game.vercel.app/)
+[![image](https://github-production-user-asset-6210df.s3.amazonaws.com/66699849/249687567-64ca45c4-4cd7-461f-8a6d-4ea4c178f7de.png)](https://www.siphoon-note.app/)
   
 ### About Me
 ![gomarag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gomarag&custom_title=Gomarag%27s%20Github%20Stats&count_private=true&hide=stars&theme=swift&show_icons=true&card_width=300)
