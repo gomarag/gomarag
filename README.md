@@ -14,25 +14,23 @@
 ### Recent Projects
 <div>
     <kbd>
-      <a href="https://consent-card-game.vercel.app/">
         <img src="https://github.com/gomarag/gomarag/assets/66699849/0cdb8234-4c36-401e-8f05-04a71f37f5f9" alt="active-consent-game-preview" width="355"/>
-      </a>
-      <h4 align="center">“동의인지 아닌지 잘 모르겠어” 지금 바로 카드게임 플레이!</h4>
-      <h3 align="center">Next.js • Firebase • React • Vercel</h3>
+        <a target="_blank" href="https://consent-card-game.vercel.app/">
+            <br><br>🔗"동의인지 아닌지 잘 모르겠어” 지금 바로 카드게임 플레이!
+        </a>
+        <h3 align="center">Next.js • Firebase • React • Vercel</h3>
     </kbd>
     <kbd>
-      <a href="https://www.siphoon-note.app/">
         <img src="https://github.com/gomarag/gomarag/assets/66699849/64ca45c4-4cd7-461f-8a6d-4ea4c178f7de" alt="siphoon-note-preview" width="400"/>
-      </a>
-      <h4 align="center">“꾸준히 글쓰는 습관을 만들고 싶어!” 10분 노트</h4>
-      <h3 align="center">Express • React • AWS EC2 • MySql</h3>
+        <a href="https://www.siphoon-note.app/">
+            <br><br>🔗 “꾸준히 글쓰는 습관을 만들고 싶어!” 10분 노트 쓰러가기!
+        </a>
+        <h3 align="center">Express • React • AWS EC2 • MySql</h3>
     </kbd>
 </div>
 <br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gomarag&showowner=true&theme=swift&repo=siphoon-note)](https://github.com/gomarag/siphoon-note)
-[![image](https://github-production-user-asset-6210df.s3.amazonaws.com/66699849/249681724-0cdb8234-4c36-401e-8f05-04a71f37f5f9.png)](https://consent-card-game.vercel.app/)
-[![image](https://github-production-user-asset-6210df.s3.amazonaws.com/66699849/249687567-64ca45c4-4cd7-461f-8a6d-4ea4c178f7de.png)](https://www.siphoon-note.app/)
   
 ### About Me
 ![gomarag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gomarag&custom_title=Gomarag%27s%20Github%20Stats&count_private=true&hide=stars&theme=swift&show_icons=true&card_width=300)
