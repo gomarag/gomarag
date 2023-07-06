@@ -33,5 +33,5 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gomarag&showowner=true&theme=swift&repo=siphoon-note)](https://github.com/gomarag/siphoon-note)
   
 ### About Me
-![gomarag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gomarag&custom_title=Gomarag%27s%20Github%20Stats&count_private=true&hide=stars&theme=swift&show_icons=true&card_width=300)
+![Leetcode Stats](https://leetcard.jacoblin.cool/gomarag?animation=false&?border=0&radius=20?&theme=forest)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gomarag&hide=CSS&title_color=&layout=compact&theme=swift&card_width=300)](https://github.com/gomarag/github-readme-stats)
