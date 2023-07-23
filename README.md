@@ -1,8 +1,5 @@
 # 😎 Full-Stack Web Developer, Garam
 
-### Timeline
-<img width="1021" alt="garam_timeline" src="https://github.com/gomarag/gomarag/assets/66699849/3011ca5a-6802-4896-ab68-91fb7faca3a6">
-
 ### Recent Projects
 <div>
     <kbd>
