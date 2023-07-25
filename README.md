@@ -33,4 +33,4 @@
   
 ### About Me
 ![Leetcode Stats](https://leetcard.jacoblin.cool/gomarag?animation=false&?border=0&radius=20)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gomarag&hide=CSS&title_color=&layout=compact&theme=swift&card_width=300)](https://github.com/gomarag/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gomarag&title_color=&layout=compact&theme=swift&card_width=300)](https://github.com/gomarag/github-readme-stats)
